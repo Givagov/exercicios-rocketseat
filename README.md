@@ -1,3 +1,3 @@
 # exercicios-rocketseat
 
-Desafios HTML
+Desafios HTML - Rocketseat
